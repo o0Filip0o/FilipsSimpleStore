@@ -1,0 +1,26 @@
+from config import *
+
+print(logoa)
+print(logob)
+print(logoc)
+print(logod)
+print(logoe)
+print(logof)
+print(logog)
+print(logoh)
+print(logoi)
+print(logoj)
+print(logok)
+print(logol)
+print(logom)
+print(logon)
+print(logoo)
+print(logop)
+
+print('Welcome '+storename+' employee, please enter your id and password')
+print('id')
+uid=input()
+print('password')
+upass=input('*')
+
+input()
